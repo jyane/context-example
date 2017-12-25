@@ -1,6 +1,6 @@
 # grpc-java context example
 
-## Run Server
+## Run the server
 
 ```
 bazel build //:example
