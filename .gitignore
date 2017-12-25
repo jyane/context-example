@@ -1,0 +1,8 @@
+/bazel-bazel
+/bazel-bin
+/bazel-genfiles
+/bazel-out
+/bazel-testlogs
+/bazel.iml
+/output/
+/bazel-context-example
