@@ -12,7 +12,7 @@ java_binary(
         "@grpc_java//protobuf",
         "@grpc_java//stub",
         "@grpc_java//netty",
-        "//third_party/grpc-services",
+        "@grpc_services//jar",
     ]
 )
 
